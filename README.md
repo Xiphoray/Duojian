@@ -6,4 +6,4 @@
 
 
 ### 下载
-[最新下载](https://github.com/Xiphoray/Duojian/releases/download/V1.0/default.exe)
+[最新下载](https://github.com/Xiphoray/Duojian/releases/download/V1.0/Duojian.exe)
