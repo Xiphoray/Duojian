@@ -1,0 +1,9 @@
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Release\CSharp剪贴板监视器.exe
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Release\CSharp剪贴板监视器.pdb
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.Form1.resources
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.Properties.Resources.resources
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.csproj.GenerateResource.Cache
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.csproj.CoreCompileInputs.cache
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.exe
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.pdb
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\x86\Release\CSharp剪贴板监视器.csprojResolveAssemblyReference.cache

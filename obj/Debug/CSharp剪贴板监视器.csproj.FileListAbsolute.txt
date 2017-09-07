@@ -1,0 +1,13 @@
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Debug\多剪.exe
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Debug\多剪.pdb
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\CSharp剪贴板监视器.Form1.resources
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\多剪.Properties.Resources.resources
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\CSharp剪贴板监视器.csproj.GenerateResource.Cache
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\CSharp剪贴板监视器.csproj.CoreCompileInputs.cache
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\多剪.exe
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\多剪.pdb
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Debug\多剪.exe.manifest
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\bin\Debug\多剪.application
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\多剪.exe.manifest
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\多剪.application
+D:\CSharp-clipboard-monitors-codes(jb51.net)\CSharp剪贴板监视器\obj\Debug\CSharp剪贴板监视器.csprojResolveAssemblyReference.cache
